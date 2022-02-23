@@ -1,4 +1,4 @@
-# vue_news-m
+# toutiao-m
 
 ## Project setup
 ```
